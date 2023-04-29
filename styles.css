@@ -1,0 +1,27 @@
+h1{
+    color: white;
+    background-color: green;
+}
+h2{
+    color: red;
+    background-color: aqua;
+}
+table,
+td, th{
+    border: 1px solid black;
+}
+video{
+    width: 200px;
+}
+img{
+    width: 200px;
+}
+table{
+    border-spacing: 0;
+}
+.right{
+    border-right: none;
+}
+.left{
+    border-left: none;
+}
