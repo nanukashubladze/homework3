@@ -25,3 +25,10 @@ table{
 .left{
     border-left: none;
 }
+.purple{
+    background-color: purple;
+    
+}
+.aqua{
+    background-color: aqua;
+}
